@@ -227,7 +227,7 @@ const App = () => {
         </div>
       </div>
       <div className="fixed bottom-0 w-full bg-gray-800 text-white text-center p-4">
-        <p>Azamat Salamatov &copy; {new Date().getFullYear()}</p>
+        <p>Artur Aidarov &copy; {new Date().getFullYear()}</p>
       </div>
     </div>
   );
